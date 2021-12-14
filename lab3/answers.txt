@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: passing through sorted values is much quicker than sort3 whereas on random lists they perform similarly.
+
+sort2 uses: merge sort
+
+How do you know?: notably outperforms the other two algorithms on random lists
+
+sort3 uses: selection sort
+
+How do you know?: slowest on both counts
